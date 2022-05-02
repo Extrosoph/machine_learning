@@ -1,2 +1,2 @@
-# machine_learning_stg_1
-This lab illustrates the use of the scikit library in python to perform Machine Learning using the Support Vector Machine Classifier. The lab uses data from the Forrest type mapping dataset provided on the UCI ML website and has been modifief for the purpose of the lab. Both data set has been stored as a csv file named training.csv and testing.csv which includes the multivariate remote sensing data of some forest areas in Japan.
+# machine_learning
+These folders includes files I worked in while I was learning machine learning.
